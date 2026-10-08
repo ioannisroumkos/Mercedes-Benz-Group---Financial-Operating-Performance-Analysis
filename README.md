@@ -28,6 +28,15 @@ The report examines:
 
 The analysis contains **21 exhibits**. Company-reported financial KPIs are kept separate from project-derived analytical calculations.
 
+## Key findings
+
+- Mercedes-Benz experienced a significant earnings reset between 2022 and 2025, with Group adjusted EBIT falling from €20.7bn to €8.2bn.
+- Cars absorbed most of the deterioration, while Vans remained comparatively resilient.
+- China was the principal geographic pressure point, accounting for approximately 72% of the net global Cars volume decline in 2025.
+- Industrial ROIC fell from 32.6% in 2022 to 11.2% in 2025, driven primarily by the decline in NOPAT margin.
+- Industrial free cash flow remained positive and net industrial liquidity reached €32.2bn at year-end 2025.
+- Q3 2026 provides early evidence of new-product-cycle traction: Group BEVs rose 52% year on year, while Cars BEVs rose 61%, although China Cars sales fell 31% in the quarter.
+
 ## Repository contents
 
 ### Report
